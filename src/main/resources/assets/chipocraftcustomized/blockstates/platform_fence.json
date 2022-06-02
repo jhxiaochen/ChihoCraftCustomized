@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "chipocraftcustomized:platform_fence"
+    },
+    "facing=north": {
+      "model": "chipocraftcustomized:platform_fence",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "chipocraftcustomized:platform_fence",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "chipocraftcustomized:platform_fence"
+    },
+    "facing=west": {
+      "model": "chipocraftcustomized:platform_fence",
+      "y": 90
+    }
+  }
+}

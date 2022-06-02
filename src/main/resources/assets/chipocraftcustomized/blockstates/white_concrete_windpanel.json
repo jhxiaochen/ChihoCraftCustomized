@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "chipocraftcustomized:white_concrete_windpanel"
+    },
+    "facing=north": {
+      "model": "chipocraftcustomized:white_concrete_windpanel"
+    },
+    "facing=east": {
+      "model": "chipocraftcustomized:white_concrete_windpanel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "chipocraftcustomized:white_concrete_windpanel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "chipocraftcustomized:white_concrete_windpanel",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "chipocraftcustomized:white_concrete_windpanel",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "chipocraftcustomized:white_concrete_windpanel",
+      "x": 90
+    }
+  }
+}

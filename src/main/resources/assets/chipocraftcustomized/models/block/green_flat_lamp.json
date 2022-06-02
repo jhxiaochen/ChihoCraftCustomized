@@ -1,0 +1,10 @@
+{
+  "parent": "chipocraftcustomized:custom/green_flat_lamp",
+  "textures": {
+    "all": "chipocraftcustomized:blocks/green_modern_lamp_on",
+    "particle": "chipocraftcustomized:blocks/green_modern_lamp_on",
+    "0": "chipocraftcustomized:blocks/transparency_light_green",
+    "1": "chipocraftcustomized:blocks/flat_lamp_base",
+    "2": "chipocraftcustomized:blocks/concrete_green"
+  }
+}

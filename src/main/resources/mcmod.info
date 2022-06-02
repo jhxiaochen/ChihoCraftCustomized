@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "chipocraftcustomized",
+    "name": "ChihoCraft Customized",
+    "description": "ChihoCraft Customized Mod",
+    "version": "8.5",
+    "credits": "jhxiaochen by Forge MDK",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "jhxiaochen, Cutekims"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

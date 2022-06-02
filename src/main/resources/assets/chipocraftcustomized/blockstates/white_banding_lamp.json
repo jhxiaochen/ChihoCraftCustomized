@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "chipocraftcustomized:white_banding_lamp_mid"
+    },
+    "facing=north": {
+      "model": "chipocraftcustomized:white_banding_lamp_mid"
+    },
+    "facing=east": {
+      "model": "chipocraftcustomized:white_banding_lamp_mid",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "chipocraftcustomized:white_banding_lamp_mid",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "chipocraftcustomized:white_banding_lamp_mid",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "chipocraftcustomized:white_banding_lamp_mid",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "chipocraftcustomized:white_banding_lamp_mid",
+      "x": 90
+    }
+  }
+}

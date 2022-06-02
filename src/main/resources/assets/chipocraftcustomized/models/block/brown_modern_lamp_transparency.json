@@ -1,0 +1,9 @@
+{
+  "parent": "chipocraftcustomized:custom/brown_modern_lamp_on_transparency",
+  "textures": {
+    "all": "chipocraftcustomized:blocks/brown_modern_lamp_on",
+    "particle": "chipocraftcustomized:blocks/brown_modern_lamp_on",
+    "0": "chipocraftcustomized:blocks/transparency_light_brown",
+    "1": "chipocraftcustomized:blocks/brown_modern_lamp_on"
+  }
+}

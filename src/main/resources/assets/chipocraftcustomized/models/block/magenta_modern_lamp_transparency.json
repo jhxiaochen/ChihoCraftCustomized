@@ -1,0 +1,9 @@
+{
+  "parent": "chipocraftcustomized:custom/magenta_modern_lamp_on_transparency",
+  "textures": {
+    "all": "chipocraftcustomized:blocks/magenta_modern_lamp_on",
+    "particle": "chipocraftcustomized:blocks/magenta_modern_lamp_on",
+    "0": "chipocraftcustomized:blocks/transparency_light_magenta",
+    "1": "chipocraftcustomized:blocks/magenta_modern_lamp_on"
+  }
+}

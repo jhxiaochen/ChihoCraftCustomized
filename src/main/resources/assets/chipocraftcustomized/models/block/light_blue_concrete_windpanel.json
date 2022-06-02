@@ -1,0 +1,8 @@
+{
+  "parent": "chipocraftcustomized:custom/light_blue_concrete_windpanel",
+  "textures": {
+    "all": "chipocraftcustomized:blocks/concrete_light_blue",
+    "particle": "chipocraftcustomized:blocks/concrete_light_blue",
+    "0": "chipocraftcustomized:blocks/concrete_light_blue"
+  }
+}

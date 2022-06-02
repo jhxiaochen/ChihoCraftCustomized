@@ -1,0 +1,10 @@
+{
+  "parent": "chipocraftcustomized:custom/gray_flat_lamp",
+  "textures": {
+    "all": "chipocraftcustomized:blocks/grey_modern_lamp_on",
+    "particle": "chipocraftcustomized:blocks/grey_modern_lamp_on",
+    "0": "chipocraftcustomized:blocks/transparency_light_grey",
+    "1": "chipocraftcustomized:blocks/flat_lamp_base",
+    "2": "chipocraftcustomized:blocks/concrete_gray"
+  }
+}

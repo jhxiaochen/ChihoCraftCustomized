@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "chipocraftcustomized:brown_flat_lamp"
+    },
+    "facing=north": {
+      "model": "chipocraftcustomized:brown_flat_lamp"
+    },
+    "facing=east": {
+      "model": "chipocraftcustomized:brown_flat_lamp",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "chipocraftcustomized:brown_flat_lamp",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "chipocraftcustomized:brown_flat_lamp",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "chipocraftcustomized:brown_flat_lamp",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "chipocraftcustomized:brown_flat_lamp",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "chipocraftcustomized:custom/purple_modern_lamp_on_transparency",
+  "textures": {
+    "all": "chipocraftcustomized:blocks/purple_modern_lamp_on",
+    "particle": "chipocraftcustomized:blocks/purple_modern_lamp_on",
+    "0": "chipocraftcustomized:blocks/transparency_light_purple",
+    "1": "chipocraftcustomized:blocks/purple_modern_lamp_on"
+  }
+}

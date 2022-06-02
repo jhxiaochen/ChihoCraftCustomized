@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chipocraftcustomized:blocks/purple_modern_lamp_on",
+    "up": "chipocraftcustomized:blocks/purple_modern_lamp_on",
+    "north": "chipocraftcustomized:blocks/purple_modern_lamp_on",
+    "east": "chipocraftcustomized:blocks/purple_modern_lamp_on",
+    "south": "chipocraftcustomized:blocks/purple_modern_lamp_on",
+    "west": "chipocraftcustomized:blocks/purple_modern_lamp_on",
+    "particle": "chipocraftcustomized:blocks/purple_modern_lamp_on"
+  }
+}

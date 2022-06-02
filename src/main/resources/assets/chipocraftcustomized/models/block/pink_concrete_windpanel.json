@@ -1,0 +1,8 @@
+{
+  "parent": "chipocraftcustomized:custom/pink_concrete_windpanel",
+  "textures": {
+    "all": "chipocraftcustomized:blocks/concrete_pink",
+    "particle": "chipocraftcustomized:blocks/concrete_pink",
+    "0": "chipocraftcustomized:blocks/concrete_pink"
+  }
+}

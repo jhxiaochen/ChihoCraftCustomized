@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "chipocraftcustomized:blocks/colored_block_line4",
+    "particle": "chipocraftcustomized:blocks/colored_block_line4"
+  }
+}

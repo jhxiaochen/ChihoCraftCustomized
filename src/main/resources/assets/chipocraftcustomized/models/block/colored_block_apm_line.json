@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "chipocraftcustomized:blocks/apm_line",
+    "particle": "chipocraftcustomized:blocks/apm_line"
+  }
+}

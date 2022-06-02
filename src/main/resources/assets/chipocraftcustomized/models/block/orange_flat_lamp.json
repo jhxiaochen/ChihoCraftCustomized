@@ -1,0 +1,10 @@
+{
+  "parent": "chipocraftcustomized:custom/orange_flat_lamp",
+  "textures": {
+    "all": "chipocraftcustomized:blocks/orange_modern_lamp_on",
+    "particle": "chipocraftcustomized:blocks/orange_modern_lamp_on",
+    "0": "chipocraftcustomized:blocks/transparency_light_orange",
+    "1": "chipocraftcustomized:blocks/flat_lamp_base",
+    "2": "chipocraftcustomized:blocks/concrete_orange"
+  }
+}
