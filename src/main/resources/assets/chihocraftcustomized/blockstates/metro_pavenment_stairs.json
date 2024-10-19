@@ -1,0 +1,22 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "chihocraftcustomized:metro_pavenment_stairs"
+  },
+  "variants": {
+    "inventory": [{"transform": "forge:default-block"}],
+    "facing": {
+      "north": {
+      },
+      "east": {
+        "y": 90
+      },
+      "south": {
+        "y": 180
+      },
+      "west": {
+        "y": 270
+      }
+    }
+  }
+}

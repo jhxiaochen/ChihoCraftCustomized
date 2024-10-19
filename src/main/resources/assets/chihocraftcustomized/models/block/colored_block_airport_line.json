@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "chihocraftcustomized:blocks/airport_line",
+    "particle": "chihocraftcustomized:blocks/airport_line"
+  }
+}

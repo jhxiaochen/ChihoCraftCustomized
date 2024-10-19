@@ -1,0 +1,9 @@
+{
+  "parent": "chihocraftcustomized:custom/lamp_tran",
+  "textures": {
+    "all": "chihocraftcustomized:blocks/cyan_modern_lamp_on",
+    "particle": "chihocraftcustomized:blocks/cyan_modern_lamp_on",
+    "0": "chihocraftcustomized:blocks/transparency_light_cyan",
+    "1": "chihocraftcustomized:blocks/cyan_modern_lamp_on"
+  }
+}

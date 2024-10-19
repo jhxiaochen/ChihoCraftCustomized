@@ -1,0 +1,29 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "chihocraftcustomized:road_merge_yellow_line"
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {
+        "transform": "forge:default-block"
+      }
+    ],
+    "facing": {
+      "north": {
+      },
+      "east": {
+        "y": 90
+      },
+      "south": {
+        "y": 180
+      },
+      "west": {
+        "y": 270
+      }
+    }
+  }
+}

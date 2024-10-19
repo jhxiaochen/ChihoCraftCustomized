@@ -1,0 +1,10 @@
+{
+  "parent": "chihocraftcustomized:custom/light_blue_flat_lamp",
+  "textures": {
+    "all": "chihocraftcustomized:blocks/light_blue_modern_lamp_on",
+    "particle": "chihocraftcustomized:blocks/light_blue_modern_lamp_on",
+    "0": "chihocraftcustomized:blocks/transparency_light_light_blue",
+    "1": "chihocraftcustomized:blocks/flat_lamp_base",
+    "2": "chihocraftcustomized:blocks/concrete_light_blue"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "transform": "forge:default-block",
+    "model": "chihocraftcustomized:road_slash_line"
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {
+        "transform": "forge:default-block"
+      }
+    ],
+    "color": {
+      "white": {
+        "textures": {
+          "line": "chihocraftcustomized:blocks/roads/road_straight_whiteline",
+          "slash": "chihocraftcustomized:blocks/roads/road_slash_line_white"
+        }
+      },
+      "yellow": {
+        "textures": {
+          "line": "chihocraftcustomized:blocks/roads/road_straight_yellow_line",
+          "slash": "chihocraftcustomized:blocks/roads/road_slash_yellow_line"
+        }
+      }
+    },
+    "facing": {
+      "north": {
+      },
+      "east": {
+        "y": 90
+      },
+      "south": {"y": 180
+      },
+      "west": {
+        "y": 270
+      }
+    }
+  }
+}

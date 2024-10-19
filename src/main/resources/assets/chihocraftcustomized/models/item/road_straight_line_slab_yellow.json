@@ -1,0 +1,6 @@
+{
+  "parent": "chihocraftcustomized:block/road_straight_line_white_slab",
+  "textures": {
+    "line": "chihocraftcustomized:blocks/roads/road_straight_yellow_line"
+  }
+}

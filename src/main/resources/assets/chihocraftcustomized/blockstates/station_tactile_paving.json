@@ -1,0 +1,29 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "transform": "forge:default-block",
+    "model": "chihocraftcustomized:station_tactile_paving"
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {
+        "transform": "forge:default-block"
+      }
+    ],
+    "facing": {
+      "north": {
+      },
+      "east": {
+        "y": 90
+      },
+      "south": {
+      },
+      "west": {
+        "y": 90
+      }
+    }
+  }
+}

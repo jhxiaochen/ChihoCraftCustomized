@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "chihocraftcustomized:blocks/node_block",
+    "particle": "chihocraftcustomized:blocks/node_block"
+  }
+}

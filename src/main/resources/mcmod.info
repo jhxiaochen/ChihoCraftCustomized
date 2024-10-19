@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chihocraftcustomized",
+  "name": "Chihocraft Customized",
+  "description": "A custom mod for chihocraft 5th",
+  "version": "10.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jhxiaochen" , "MarinSnow_0330"],
+  "credits": "textures making by MarinSnow_0330 & jhxiaochen & HChanJ1689, mod creating by jhxiaochen",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

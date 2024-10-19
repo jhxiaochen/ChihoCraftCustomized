@@ -1,0 +1,10 @@
+{
+  "parent": "chihocraftcustomized:custom/magenta_flat_lamp",
+  "textures": {
+    "all": "chihocraftcustomized:blocks/magenta_modern_lamp_on",
+    "particle": "chihocraftcustomized:blocks/magenta_modern_lamp_on",
+    "0": "chihocraftcustomized:blocks/transparency_light_magenta",
+    "1": "chihocraftcustomized:blocks/flat_lamp_base",
+    "2": "chihocraftcustomized:blocks/concrete_magenta"
+  }
+}

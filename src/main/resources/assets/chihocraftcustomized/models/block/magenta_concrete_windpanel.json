@@ -1,0 +1,8 @@
+{
+  "parent": "chihocraftcustomized:custom/magenta_concrete_windpanel",
+  "textures": {
+    "all": "chihocraftcustomized:blocks/concrete_magenta",
+    "particle": "chihocraftcustomized:blocks/concrete_magenta",
+    "0": "chihocraftcustomized:blocks/concrete_magenta"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chihocraftcustomized:blocks/light_gray_modern_lamp_on",
+    "up": "chihocraftcustomized:blocks/light_gray_modern_lamp_on",
+    "north": "chihocraftcustomized:blocks/light_gray_modern_lamp_on",
+    "east": "chihocraftcustomized:blocks/light_gray_modern_lamp_on",
+    "south": "chihocraftcustomized:blocks/light_gray_modern_lamp_on",
+    "west": "chihocraftcustomized:blocks/light_gray_modern_lamp_on",
+    "particle": "chihocraftcustomized:blocks/light_gray_modern_lamp_on"
+  }
+}

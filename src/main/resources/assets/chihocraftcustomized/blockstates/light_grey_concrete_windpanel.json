@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "chihocraftcustomized:light_grey_concrete_windpanel"
+    },
+    "facing=north": {
+      "model": "chihocraftcustomized:light_grey_concrete_windpanel"
+    },
+    "facing=east": {
+      "model": "chihocraftcustomized:light_grey_concrete_windpanel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "chihocraftcustomized:light_grey_concrete_windpanel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "chihocraftcustomized:light_grey_concrete_windpanel",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "chihocraftcustomized:light_grey_concrete_windpanel",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "chihocraftcustomized:light_grey_concrete_windpanel",
+      "x": 90
+    }
+  }
+}

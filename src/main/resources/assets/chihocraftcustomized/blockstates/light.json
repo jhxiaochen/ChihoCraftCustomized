@@ -1,0 +1,27 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "transform": "forge:default-block"
+  },
+  "variants": {
+      "inventory": [{"transform": "forge:default-block"}],
+      "color": {
+        "white": {"model": "chihocraftcustomized:lamp_white"},
+        "black": {"model": "chihocraftcustomized:lamp_black"},
+        "yellow": {"model": "chihocraftcustomized:lamp_yellow"},
+        "red": {"model": "chihocraftcustomized:lamp_red"},
+        "green": {"model": "chihocraftcustomized:lamp_green"},
+        "blue": {"model": "chihocraftcustomized:lamp_blue"},
+        "cyan": {"model": "chihocraftcustomized:lamp_cyan"},
+        "gray": {"model": "chihocraftcustomized:lamp_gray"},
+        "brown": {"model": "chihocraftcustomized:lamp_brown"},
+        "light_blue": {"model": "chihocraftcustomized:lamp_light_blue"},
+        "lime": {"model": "chihocraftcustomized:lamp_lime"},
+        "silver": {"model": "chihocraftcustomized:lamp_silver"},
+        "magenta": {"model": "chihocraftcustomized:lamp_magenta"},
+        "purple": {"model": "chihocraftcustomized:lamp_purple"},
+        "orange": {"model": "chihocraftcustomized:lamp_orange"},
+        "pink": {"model": "chihocraftcustomized:lamp_pink"}
+      }
+    }
+  }

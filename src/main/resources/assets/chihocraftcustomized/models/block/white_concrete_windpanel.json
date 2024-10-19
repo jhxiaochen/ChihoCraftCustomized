@@ -1,0 +1,8 @@
+{
+  "parent": "chihocraftcustomized:custom/white_concrete_windpanel",
+  "textures": {
+    "all": "chihocraftcustomized:blocks/concrete_white",
+    "particle": "chihocraftcustomized:blocks/concrete_white",
+    "0": "chihocraftcustomized:blocks/concrete_white"
+  }
+}

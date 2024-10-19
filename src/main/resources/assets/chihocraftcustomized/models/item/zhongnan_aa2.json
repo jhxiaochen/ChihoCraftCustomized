@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "chihocraftcustomized:items/zhongnan_aa2"
+    }
+}

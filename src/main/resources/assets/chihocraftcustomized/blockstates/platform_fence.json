@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "chihocraftcustomized:platform_fence"
+    },
+    "facing=north": {
+      "model": "chihocraftcustomized:platform_fence",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "chihocraftcustomized:platform_fence",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "chihocraftcustomized:platform_fence"
+    },
+    "facing=west": {
+      "model": "chihocraftcustomized:platform_fence",
+      "y": 90
+    }
+  }
+}

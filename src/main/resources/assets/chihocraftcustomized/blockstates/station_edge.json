@@ -1,0 +1,70 @@
+{
+  "variants": {
+    "facing=north,variant=left45": {
+      "model": "chihocraftcustomized:station_2",
+      "y": 180
+    },
+    "facing=east,variant=left45": {
+      "model": "chihocraftcustomized:station_2",
+      "y": 270
+    },
+    "facing=south,variant=left45": {
+      "model": "chihocraftcustomized:station_2"
+    },
+    "facing=west,variant=left45": {
+      "model": "chihocraftcustomized:station_2",
+      "y": 90
+    },
+
+
+    "facing=north,variant=right45": {
+      "model": "chihocraftcustomized:station_5",
+      "y": 180
+    },
+    "facing=east,variant=right45": {
+      "model": "chihocraftcustomized:station_5",
+      "y": 270
+    },
+    "facing=south,variant=right45": {
+      "model": "chihocraftcustomized:station_5"
+    },
+    "facing=west,variant=right45": {
+      "model": "chihocraftcustomized:station_5",
+      "y": 90
+    },
+
+
+    "facing=north,variant=left": {
+      "model": "chihocraftcustomized:station_3",
+      "y": 180
+    },
+    "facing=east,variant=left": {
+      "model": "chihocraftcustomized:station_3",
+      "y": 270
+    },
+    "facing=south,variant=left": {
+      "model": "chihocraftcustomized:station_3"
+    },
+    "facing=west,variant=left": {
+      "model": "chihocraftcustomized:station_3",
+      "y": 90
+    },
+
+
+    "facing=north,variant=right": {
+      "model": "chihocraftcustomized:station_4",
+      "y": 180
+    },
+    "facing=east,variant=right": {
+      "model": "chihocraftcustomized:station_4",
+      "y": 270
+    },
+    "facing=south,variant=right": {
+      "model": "chihocraftcustomized:station_4"
+    },
+    "facing=west,variant=right": {
+      "model": "chihocraftcustomized:station_4",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "transform": "forge:default-block",
+    "model": "chihocraftcustomized:road_excl_zone_split_out_right_slab"
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {
+      }
+    ],
+    "facing": {
+      "north": {
+      },
+      "east": {
+        "y": 90
+      },
+      "south": {"y": 180
+      },
+      "west": {
+        "y": 270
+      }
+    }
+  }
+}

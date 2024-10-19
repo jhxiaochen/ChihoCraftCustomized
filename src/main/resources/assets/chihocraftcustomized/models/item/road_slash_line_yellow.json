@@ -1,0 +1,7 @@
+{
+  "parent": "chihocraftcustomized:block/road_slash_line",
+  "textures": {
+    "line": "chihocraftcustomized:blocks/roads/road_straight_yellow_line",
+    "slash": "chihocraftcustomized:blocks/roads/road_slash_yellow_line"
+  }
+}

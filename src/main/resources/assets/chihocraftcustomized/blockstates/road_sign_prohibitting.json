@@ -1,0 +1,116 @@
+{
+    "forge_marker": 1,
+    "defaults" : {
+        "textures": {
+            "front": "chihocraftcustomized:blocks/roads/sign/road_sign_prohibitting",
+            "back": "chihocraftcustomized:blocks/roads/back/road_sign_back_round"
+        }
+    },
+    "variants": {
+        "facing": {
+            "north": {
+                "model": "chihocraftcustomized:road_sign",
+                "uvlock": false
+            },
+            "east": {
+                "model": "chihocraftcustomized:road_sign",
+                "y": 90,
+                "uvlock": false
+            },
+            "south": {
+                "model": "chihocraftcustomized:road_sign",
+                "y": 180,
+                "uvlock": false
+            },
+            "west": {
+                "model": "chihocraftcustomized:road_sign",
+                "y": 270,
+                "uvlock": false
+            }
+        },
+        "down": {
+            "true": {
+                "submodel": {
+                    "post_down": {
+                        "model": "chihocraftcustomized:road_sign_post2",
+                        "uvlock": true
+                    }
+                }
+            },
+            "false": { }
+        },
+        "up": {
+            "true": {
+                "submodel": {
+                    "post_up": {
+                        "model": "chihocraftcustomized:road_sign_post3",
+                        "uvlock": true
+                    }
+                }
+            },
+            "false": { }
+        },
+        "south": {
+            "true": {
+                "submodel": {
+                    "post_north": {
+                        "model": "chihocraftcustomized:road_sign_side",
+                        "uvlock": true
+                    }
+                }
+            },
+            "false": { }
+        },
+        "north": {
+            "true": {
+                "submodel": {
+                    "post_south": {
+                        "model": "chihocraftcustomized:road_sign_side",
+                        "y": 180,
+                        "uvlock": true
+                    }
+                }
+            },
+            "false": { }
+        },
+        "west": {
+            "true": {
+                "submodel": {
+                    "post_east": {
+                        "model": "chihocraftcustomized:road_sign_side",
+                        "y": 90,
+                        "uvlock": true
+                    }
+                }
+            },
+            "false": { }
+        },
+        "east": {
+            "true": {
+                "submodel": {
+                    "post_west": {
+                        "model": "chihocraftcustomized:road_sign_side",
+                        "y": 270,
+                        "uvlock": true
+                    }
+                }
+            },
+            "false": { }
+        },
+        "inventory": [
+            {
+                "submodel": {
+                    "post_north": {
+                        "model": "chihocraftcustomized:road_sign",
+                        "uvlock": true
+                    },
+                    "post_south": {
+                        "model": "chihocraftcustomized:road_sign",
+                        "y": 180,
+                        "uvlock": true
+                    }
+                }
+            }
+        ]
+    }
+}

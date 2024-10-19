@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "chihocraftcustomized:road_parking_cross"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{"transform": "forge:default-block"}]
+  }
+}

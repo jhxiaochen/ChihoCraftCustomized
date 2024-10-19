@@ -1,0 +1,8 @@
+{
+  "parent": "chihocraftcustomized:custom/purple_concrete_windpanel",
+  "textures": {
+    "all": "chihocraftcustomized:blocks/concrete_purple",
+    "particle": "chihocraftcustomized:blocks/concrete_purple",
+    "0": "chihocraftcustomized:blocks/concrete_purple"
+  }
+}

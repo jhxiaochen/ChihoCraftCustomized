@@ -1,0 +1,34 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "transform": "forge:default-block",
+    "model": "chihocraftcustomized:road_single_movelane_slab",
+    "textures": {
+      "particle": "chihocraftcustomized:blocks/roads/road_block_black",
+      "asphalt": "chihocraftcustomized:blocks/roads/road_block_black",
+      "line": "chihocraftcustomized:blocks/roads/road_single_movelane"
+    }
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {
+        "transform": "forge:default-block"
+      }
+    ],
+    "facing": {
+      "north": {
+      },
+      "east": {
+        "y": 90
+      },
+      "south": {"y": 180
+      },
+      "west": {
+        "y": 270
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "chihocraftcustomized:road_straight_line_white"
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {
+        "transform": "forge:default-block"
+      }
+    ],
+    "color": {
+      "white": {
+        "textures": {
+          "line": "chihocraftcustomized:blocks/roads/road_straight_whiteline"
+        }
+      },
+      "yellow": {
+        "textures": {
+          "line": "chihocraftcustomized:blocks/roads/road_straight_yellow_line"
+        }
+      }
+    },
+    "facing": {
+      "north": {
+      },
+      "east": {
+        "y": 90
+      },
+      "south": {
+      },
+      "west": {
+        "y": 90
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "chihocraftcustomized:custom/lime_flat_lamp",
+  "textures": {
+    "all": "chihocraftcustomized:blocks/lime_modern_lamp_on",
+    "particle": "chihocraftcustomized:blocks/lime_modern_lamp_on",
+    "0": "chihocraftcustomized:blocks/transparency_light_lime",
+    "1": "chihocraftcustomized:blocks/flat_lamp_base",
+    "2": "chihocraftcustomized:blocks/concrete_lime"
+  }
+}

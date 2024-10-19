@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "transform": "forge:default-block",
+    "model": "cube_all",
+    "textures": {
+      "all": "chihocraftcustomized:blocks/color_block_line10",
+      "particle": "chihocraftcustomized:blocks/color_block_line10"
+    }
+  },
+  "variants": {
+    "inventory": [{"transform": "forge:default-block"}],
+    "normal": [{}]
+  }
+}

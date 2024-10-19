@@ -1,0 +1,33 @@
+{
+  "parent": "chihocraftcustomized:block/blue_concrete_windpanel",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0.5, 0, -3.75],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-0.5, 0, -3.75],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 15, 0],
+			"translation": [0, 0, -2],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 15, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [-150, 135, -180],
+			"translation": [0.5, 0.25, 0],
+			"scale": [0.63, 0.63, 0.63]
+		},
+		"fixed": {
+			"translation": [1, 0, 1.75]
+		}
+	}
+}

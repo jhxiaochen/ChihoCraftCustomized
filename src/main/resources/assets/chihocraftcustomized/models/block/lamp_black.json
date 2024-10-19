@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "chihocraftcustomized:blocks/black_modern_lamp_on"
+}
+}

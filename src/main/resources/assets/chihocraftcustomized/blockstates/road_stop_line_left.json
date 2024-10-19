@@ -1,0 +1,37 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "transform": "forge:default-block",
+    "model": "chihocraftcustomized:road_stop_line_left"
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {
+        "transform": "forge:default-block"
+      }
+    ],
+    "type": {
+      "left": {
+        "model": "chihocraftcustomized:road_stop_line_left"
+      },
+      "left1": {
+        "model": "chihocraftcustomized:road_stop_line_left1"
+      }
+    },
+    "facing": {
+      "north": {
+      },
+      "east": {
+        "y": 90
+      },
+      "south": {"y": 180
+      },
+      "west": {
+        "y": 270
+      }
+    }
+  }
+}

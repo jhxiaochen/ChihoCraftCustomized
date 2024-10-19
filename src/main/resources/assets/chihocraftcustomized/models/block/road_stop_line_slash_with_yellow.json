@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/cube_all",
+	"textures": {
+		"1": "chihocraftcustomized:blocks/roads/road_stop_line_slash_with_yellow",
+		"2": "chihocraftcustomized:blocks/roads/road_stop_line",
+		"3": "chihocraftcustomized:blocks/roads/road_straight_double_yellow_line",
+		"particle": "chihocraftcustomized:blocks/roads/road_block_black",
+		"all": "chihocraftcustomized:blocks/roads/road_block_black"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#2", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#3", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#all", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "down"}
+			}
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "chihocraftcustomized:block/white_banding_lamp_mid",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [1.25, -1.25, 11.5],
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [1.25, -1.25, 11.5],
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0.75, 14],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0.75, 14.5],
+			"scale": [2, 2, 2]
+		},
+		"ground": {
+			"scale": [2, 2, 2]
+		},
+		"gui": {
+			"rotation": [-180, 45, 0],
+			"translation": [-10.5, 0.25, 0],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"translation": [0, 0, -2.75],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"translation": [0, -0.75, -13],
+			"scale": [1.8, 1.8, 1.8]
+		}
+	}
+}

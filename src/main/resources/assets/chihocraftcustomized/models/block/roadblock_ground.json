@@ -1,0 +1,57 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "chihocraftcustomized:blocks/roads/arrow/road_arrow_s",
+		"arrow": "chihocraftcustomized:blocks/roads/arrow/road_arrow_s"
+	},
+	"elements": [
+		{
+			"from": [-14, 0.03, -14],
+			"to": [30, 0.03, 30],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#arrow"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#arrow"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#arrow"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#arrow"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#arrow"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#arrow", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 3.25, 3.25],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 3.25, 3.25],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 0, -6],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 0, -7.75],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0.75, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"fixed": {
+			"rotation": [90, 0, -180],
+			"translation": [0, 0, -4],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

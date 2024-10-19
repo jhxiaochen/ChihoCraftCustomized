@@ -1,0 +1,8 @@
+{
+  "parent": "chihocraftcustomized:custom/orange_concrete_windpanel",
+  "textures": {
+    "all": "chihocraftcustomized:blocks/concrete_orange",
+    "particle": "chihocraftcustomized:blocks/concrete_orange",
+    "0": "chihocraftcustomized:blocks/concrete_orange"
+  }
+}

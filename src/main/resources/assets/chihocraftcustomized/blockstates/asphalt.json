@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "cube_all"
+  },
+  "variants": {
+      "normal": [{}],
+      "inventory": [{"transform": "forge:default-block"}],
+      "color": {
+        "white": {"textures": {"all": "chihocraftcustomized:blocks/roads/road_block_white"}},
+        "black": {"textures": {"all": "chihocraftcustomized:blocks/roads/road_block_black"}},
+        "yellow": {"textures": {"all": "chihocraftcustomized:blocks/roads/road_block_yellow"}}
+      }
+    }
+  }

@@ -1,0 +1,28 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "chihocraftcustomized:road_stop_line_slash_with_yellow_slab"
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {
+        "transform": "forge:default-block"
+      }
+    ],
+    "facing": {
+      "north": {
+      },
+      "east": {
+        "y": 90
+      },
+      "south": {"y": 180
+      },
+      "west": {
+        "y": 270
+      }
+    }
+  }
+}

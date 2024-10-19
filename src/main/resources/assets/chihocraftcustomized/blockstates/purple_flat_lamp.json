@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "chihocraftcustomized:purple_flat_lamp"
+    },
+    "facing=north": {
+      "model": "chihocraftcustomized:purple_flat_lamp"
+    },
+    "facing=east": {
+      "model": "chihocraftcustomized:purple_flat_lamp",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "chihocraftcustomized:purple_flat_lamp",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "chihocraftcustomized:purple_flat_lamp",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "chihocraftcustomized:purple_flat_lamp",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "chihocraftcustomized:purple_flat_lamp",
+      "x": 90
+    }
+  }
+}

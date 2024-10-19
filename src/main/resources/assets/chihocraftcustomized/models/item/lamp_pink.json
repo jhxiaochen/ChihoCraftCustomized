@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chihocraftcustomized:blocks/pink_modern_lamp_on",
+    "up": "chihocraftcustomized:blocks/pink_modern_lamp_on",
+    "north": "chihocraftcustomized:blocks/pink_modern_lamp_on",
+    "east": "chihocraftcustomized:blocks/pink_modern_lamp_on",
+    "south": "chihocraftcustomized:blocks/pink_modern_lamp_on",
+    "west": "chihocraftcustomized:blocks/pink_modern_lamp_on",
+    "particle": "chihocraftcustomized:blocks/pink_modern_lamp_on"
+  }
+}

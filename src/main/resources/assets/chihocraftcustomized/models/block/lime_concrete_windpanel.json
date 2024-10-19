@@ -1,0 +1,8 @@
+{
+  "parent": "chihocraftcustomized:custom/lime_concrete_windpanel",
+  "textures": {
+    "all": "chihocraftcustomized:blocks/concrete_lime",
+    "particle": "chihocraftcustomized:blocks/concrete_lime",
+    "0": "chihocraftcustomized:blocks/concrete_lime"
+  }
+}

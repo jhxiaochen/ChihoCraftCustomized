@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "chihocraftcustomized:station_empty"
+    },
+    "facing=north": {
+      "model": "chihocraftcustomized:station_empty"
+    },
+    "facing=east": {
+      "model": "chihocraftcustomized:station_empty",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "chihocraftcustomized:station_empty",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "chihocraftcustomized:station_empty",
+      "y": 270
+    }
+  }
+}
